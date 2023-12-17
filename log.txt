@@ -1,0 +1,6 @@
+[Sun Dec 17 21:24:28 EET 2023] SERVER to vlad: Вітаємо у чаті vlad!
+[Sun Dec 17 21:24:35 EET 2023] SERVER to nazar: Вітаємо у чаті nazar!
+[Sun Dec 17 21:24:38 EET 2023] SERVER to nastya: Вітаємо у чаті nastya!
+[Sun Dec 17 21:24:49 EET 2023] vlad to nastya: Hello all!
+[Sun Dec 17 21:24:49 EET 2023] vlad to nazar: Hello all!
+[Sun Dec 17 21:25:09 EET 2023] vlad to nazar: Hello 
